@@ -1,0 +1,27 @@
+{
+  "name": "nodeWithRedis_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigojeansantos/nodeWithRedis_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigojeansantos/nodeWithRedis_1/issues"
+  },
+  "homepage": "https://github.com/rodrigojeansantos/nodeWithRedis_1#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25",
+    "mongoose-seed": "^0.6.0",
+    "redis": "^3.0.2"
+  }
+}
